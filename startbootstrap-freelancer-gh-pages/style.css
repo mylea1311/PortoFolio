@@ -1,0 +1,18 @@
+body {
+   background-image: linear-gradient(to bottom, #ffffff, #cacaca, #979797, #676767, #3b3b3b, #292929, #181818, #010000, #020000, #030000, #040000, #050000);
+}
+
+.nav {
+   background-image: linear-gradient(to bottom, #ffffff, #cacaca, #979797, #676767, #3b3b3b, #292929, #181818, #010000, #020000, #030000, #040000, #050000);
+}
+.nav-bar {
+   color: black;
+}
+
+.control-group:hover {
+   background-color: rgb(110, 4, 4)
+
+}
+.photo {
+   border-style: solid;
+}
